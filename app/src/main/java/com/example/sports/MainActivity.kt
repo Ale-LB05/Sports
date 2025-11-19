@@ -24,9 +24,6 @@ import androidx.compose.material3.Surface
 import com.example.sports.ui.SportsApp
 import com.example.sports.ui.theme.SportsTheme
 
-/**
- * Activity for Sports app
- */
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         enableEdgeToEdge()
